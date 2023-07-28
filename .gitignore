@@ -6,3 +6,6 @@ dist-newstyle/
 code/Week05/lecture/secret.ts
 code/Week08/tmp/
 code/Week08/assets/staking.plutus
+.DS_Store
+cardano-private-testnet-setup/.DS_Store
+code/DS_Store
